@@ -1,2 +1,2 @@
-# PMDE_FS
-# This is an implementation for the paper "Three-way attribute reduction based on parameterized maximum decision entropy", which is published in IJAR. The source codes (Python 3.8, data sets, and experimental results are included.
+# AWM_FS
+# This is an implementation for the paper "Average weight margin-based feature selection with three-way decision", which is submitted to PR.
